@@ -7,4 +7,4 @@
 #openjdk:8u342-jdk
 apache/doris:build-env-ldb-toolchain-0.19-latest
 
-
+docker.io/ansible/centos7-ansible
