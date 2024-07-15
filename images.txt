@@ -9,3 +9,4 @@ apache/doris:build-env-ldb-toolchain-0.19-latest
 
 docker.io/ansible/centos7-ansible
 nacos/nacos-server:v2.1.0
+mongo
