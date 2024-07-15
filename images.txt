@@ -13,6 +13,6 @@ mongo
 ubuntu
 solr
 redis
-quartz
+
 mysql
 portainer
